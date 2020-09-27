@@ -1,3 +1,3 @@
-# cool-python-packages
+# Demos
 
-A curated list of cool Python packages with examples.
+A curated list of Python package demos and examples.
